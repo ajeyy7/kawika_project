@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:kawika_project/model/data_model.dart';
 import 'package:kawika_project/model/hive_datamodel.dart';
 import 'package:kawika_project/view_model/home_viewmodel.dart';
 import 'package:provider/provider.dart';
